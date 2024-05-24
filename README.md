@@ -9,22 +9,22 @@ The app was developed as a machine learning exercice from the public dataset [Br
 
 ## Installation
 
-You can run this inside a virtual environment to make it easier to manage dependencies. I recommend using `conda` to create a new environment and install the required packages. You can create a new environment called `breast-cancer-diagnosis` by running:
+You can run this inside a virtual environment to make it easier to manage dependencies. I recommend using `conda` to create a new environment and install the required packages. You can create a new environment called `OncoPredict` by running:
 
 ```bash
-conda create -n breast-cancer-diagnosis python=3.10 
+conda create -n OncoPredict python=3.10 
 ```
 
 Then, activate the environment:
 
 ```bash
-conda activate breast-cancer-diagnosis
+conda activate OncoPredict
 ```
 
 Then, activate the environment:
 
 ```bash
-conda activate breast-cancer-diagnosis
+conda activate OncoPredict
 ```
 
 To install the required packages, run:
